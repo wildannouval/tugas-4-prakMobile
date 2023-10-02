@@ -1,16 +1,24 @@
-# tokokita
+# Tokokita - Wildan Nouval Rizki
 
-A new Flutter project.
+<hr>
 
-## Getting Started
+## Screenshot
+### Login Page
 
-This project is a starting point for a Flutter application.
+![Login_Page](https://github.com/wildannouval/tugas-4-prakMobile/assets/95664525/52335506-e29d-4148-847d-f5fae4f5dab5)
 
-A few resources to get you started if this is your first Flutter project:
+### Register Page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Registrasi_Page](https://github.com/wildannouval/tugas-4-prakMobile/assets/95664525/9c449875-0fc3-4cc2-9fcc-8a9dfae2e64f)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### List Produk Page
+
+![Listproduk_Page](https://github.com/wildannouval/tugas-4-prakMobile/assets/95664525/2619e223-12c8-40fd-9901-64fb51b796ef)
+
+### Detail Page
+
+![Detail_Page](https://github.com/wildannouval/tugas-4-prakMobile/assets/95664525/681c3ef1-e187-4dc1-a14d-1ca41c77d258)
+
+### Ubah Page
+
+![Ubah_Page](https://github.com/wildannouval/tugas-4-prakMobile/assets/95664525/ec52e92d-8507-4eed-9812-ecbec33a1357)
